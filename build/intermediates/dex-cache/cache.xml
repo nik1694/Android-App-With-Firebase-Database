@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\NIKHIL\.android\build-cache\847bfe67a31f7ff9d06d35ba5c61574f71b38d6c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6c09228ff931eb30b68dd27fe34ed90d978b6892">
+        <dex dex="C:\Users\NIKHIL\AndroidStudioProjects\SqliteLogin\app\build\intermediates\pre-dexed\debug\classes_3347af041141e956d1ad1e8245ba3e8f35998d95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NIKHIL\.android\build-cache\c99320dc7827991c7f8a63e096f3a0045fc5929e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24c1a80d8ccaecee7b8b80209b4e273dc22b14d">
+        <dex dex="C:\Users\NIKHIL\AndroidStudioProjects\SqliteLogin\app\build\intermediates\pre-dexed\debug\classes_0965e949958acd940e5dda477a3d68bf370c5557.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NIKHIL\.android\build-cache\e260cb5a99df7664ea0e56a18c2b2599fdf05465\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05a2710d284c03087013a667a324c9e2aba5bc91">
+        <dex dex="C:\Users\NIKHIL\AndroidStudioProjects\SqliteLogin\app\build\intermediates\pre-dexed\debug\classes_943d1e3c387934ecf7db7545fc828222cd8f59f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NIKHIL\.android\build-cache\f409c4b5e1ccd33e4e82b70ae102fa4184ae65a9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48917c60ea81213ea39cbd7123996a5401106dc3">
+        <dex dex="C:\Users\NIKHIL\AndroidStudioProjects\SqliteLogin\app\build\intermediates\pre-dexed\debug\classes_78ae55af99491e21f4048529c924105bc7c814da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NIKHIL\.android\build-cache\efbc5de7f8fff6d8e9c5da9de0ad320f95bd2c34\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\NIKHIL\AndroidStudioProjects\SqliteLogin\app\build\intermediates\pre-dexed\debug\classes_80814d15c3030fdfd6cc22c111b6a037fa12e326.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NIKHIL\.android\build-cache\226fcfad5df031f3039cee912d50506008071a2b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1141496362c8876f0da4b645fbaf22c0a3618372">
+        <dex dex="C:\Users\NIKHIL\AndroidStudioProjects\SqliteLogin\app\build\intermediates\pre-dexed\debug\classes_2381a04efeb2ab0e0e380ce20406cd6c1d59b263.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NIKHIL\.android\build-cache\e57dfc90b0a6898f68ed2467eb8b02f97de5f478\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="90eeba67a669f8fb24db0f821ef81703fe7a02bc">
+        <dex dex="C:\Users\NIKHIL\AndroidStudioProjects\SqliteLogin\app\build\intermediates\pre-dexed\debug\classes_fbd25e11af9d10e12ffb6bffa16f0c2b9f327932.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NIKHIL\.android\build-cache\89a621750b551fb5b63015bd561da710c945f141\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee19e33a798d11a5cf309a40155b8223fadcdeea">
+        <dex dex="C:\Users\NIKHIL\AndroidStudioProjects\SqliteLogin\app\build\intermediates\pre-dexed\debug\classes_8c8eaaa9f38e87270a081aa52534dac0cb95d92e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NIKHIL\.android\build-cache\8b2506e8f4a6cad9eae41a337dc1bf1bb94e9209\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bbd51be332bace144b3d16501ec0af379c3c8750">
+        <dex dex="C:\Users\NIKHIL\AndroidStudioProjects\SqliteLogin\app\build\intermediates\pre-dexed\debug\classes_fb7ba4a1514a92581eb39859ab1e7d4e655b6195.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NIKHIL\.android\build-cache\e0ed020d2def9e7a627e6089d4885b8ea6121056\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ac78f93fc89c497a65f9d9a352cd405996d2f65a">
+        <dex dex="C:\Users\NIKHIL\AndroidStudioProjects\SqliteLogin\app\build\intermediates\pre-dexed\debug\classes_8f2d7fdd6a44c8b9a2d2c34c918e81c6ae2f125a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NIKHIL\.android\build-cache\e5275e0eac2d5d852a2b8c13add3754c41b667ea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e719de687ac45141de3dd613907860a495580af0">
+        <dex dex="C:\Users\NIKHIL\AndroidStudioProjects\SqliteLogin\app\build\intermediates\pre-dexed\debug\classes_58538a2059721df642f9fcc7914fce74a69c1b54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NIKHIL\.android\build-cache\663fc9b5fddc1de1fe2eb5b1cde5e4af95156880\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="89ab748a6c0ab6ac1d3671f2356d6181e8108bc5">
+        <dex dex="C:\Users\NIKHIL\AndroidStudioProjects\SqliteLogin\app\build\intermediates\pre-dexed\debug\classes_dad2130edce440d9ffebb48c2124730f5e554f0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NIKHIL\.android\build-cache\cfcdbde66109326ac1affb9fae5dc17dd1dc15d2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="35a01d7cb4ff6b5976777bf5827fd8f206fb8757">
+        <dex dex="C:\Users\NIKHIL\AndroidStudioProjects\SqliteLogin\app\build\intermediates\pre-dexed\debug\classes_47f80f7bf0f7177caf9842098c1884ded38f82ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NIKHIL\.android\build-cache\16a3b5e31a172deffcb1bd858620a71823b38ad3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd1907a2e855eeb2be8aa3486f3d4d4f1c8b22af">
+        <dex dex="C:\Users\NIKHIL\AndroidStudioProjects\SqliteLogin\app\build\intermediates\pre-dexed\debug\classes_76b34d005020b6691afcc135ce49bc7e4d9310e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NIKHIL\.android\build-cache\391d5403ac99ef06282731c70be80144cb96806e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a0f2d219f82db499ac03d5a985c4eb3e83fc422">
+        <dex dex="C:\Users\NIKHIL\AndroidStudioProjects\SqliteLogin\app\build\intermediates\pre-dexed\debug\classes_4b92444862095a10ff576788d1a6789d6967b441.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NIKHIL\.android\build-cache\bbb355b31acbbe0f4c30a8923e9d5174e05aeea9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="428c9bac95b2f72921224e289553a04bea61cda5">
+        <dex dex="C:\Users\NIKHIL\AndroidStudioProjects\SqliteLogin\app\build\intermediates\pre-dexed\debug\classes_4eb10a7f23e46d29aa0e98467700cfa6e0595b2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NIKHIL\.android\build-cache\d96d199ac777f716250f6f109bdb0c45da8d607a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="421b36cf4f0d3bbd75e8f28647fccf36674ef049">
+        <dex dex="C:\Users\NIKHIL\AndroidStudioProjects\SqliteLogin\app\build\intermediates\pre-dexed\debug\classes_06c902031f2e338174ea6f62c8ee1770e67e1704.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NIKHIL\.android\build-cache\47b275aedf9179c5ea6390bf7b9454715fc199e9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5337354083e89ed67151859ab0b6b80935c60eaf">
+        <dex dex="C:\Users\NIKHIL\AndroidStudioProjects\SqliteLogin\app\build\intermediates\pre-dexed\debug\classes_c3d534793346d50fe505dcfde3c4fa007382379c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NIKHIL\.android\build-cache\fde653fc5f7cfc56f9283e28497bfbe9912f7506\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="C:\Users\NIKHIL\AndroidStudioProjects\SqliteLogin\app\build\intermediates\pre-dexed\debug\classes_ef310ff7942f4abd44e91bfd8cd73ec0c463484b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NIKHIL\.android\build-cache\04ff3f3e91692de4ec4e14354e03141fead38c19\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152cba5ca28fd4a5191a8577a0fa96d61122041e">
+        <dex dex="C:\Users\NIKHIL\AndroidStudioProjects\SqliteLogin\app\build\intermediates\pre-dexed\debug\classes_219e0895589d9726a045eac6080ee57fd06136e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NIKHIL\.android\build-cache\0d818e76e0bfd1c7ff3a67254aed2cdf4c0e183e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f3b0ff905873c91ab64addba30cc1e77bed34c4d">
+        <dex dex="C:\Users\NIKHIL\AndroidStudioProjects\SqliteLogin\app\build\intermediates\pre-dexed\debug\classes_2cabf68708821896da74e9e7524444034d4f63d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NIKHIL\.android\build-cache\da6a04a6e06a883c026e977981755768e23eba91\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="310ef01419435979cc82847cf085799a8d00e7e9">
+        <dex dex="C:\Users\NIKHIL\AndroidStudioProjects\SqliteLogin\app\build\intermediates\pre-dexed\debug\classes_da22006ba9adab1e0066f776507c5ab2d63279f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NIKHIL\.android\build-cache\f4a3329209174511ae18cb17bdf0b09cf4c76d60\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a65d98c9409f271d3209f4cc1f7d8e0391665fa5">
+        <dex dex="C:\Users\NIKHIL\AndroidStudioProjects\SqliteLogin\app\build\intermediates\pre-dexed\debug\classes_190217f95177eb3e188626d7afb49a3ad60ce1ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NIKHIL\.android\build-cache\67817e86e5f8cfe311f206225d5ad1b8d3fee5a6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="edf9a22ebf25281619265079aec8f5d433da1a5c">
+        <dex dex="C:\Users\NIKHIL\AndroidStudioProjects\SqliteLogin\app\build\intermediates\pre-dexed\debug\classes_0a5bbe47167b628c258a882bc9caa0d48d8ed19b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NIKHIL\.android\build-cache\1bc8b3583432ef6839277401d1db934edafef6cd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d064f813cd835f17853e39221b247cf6a997a2db">
+        <dex dex="C:\Users\NIKHIL\AndroidStudioProjects\SqliteLogin\app\build\intermediates\pre-dexed\debug\classes_cb62bd4410b37370738275a5249c8579c7a48f54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NIKHIL\.android\build-cache\a537fb49d0f2fdd3175c5eeb6f18fea6937402ec\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e1bec33f1ec5367e25676638b430b9d585f3dbec">
+        <dex dex="C:\Users\NIKHIL\AndroidStudioProjects\SqliteLogin\app\build\intermediates\pre-dexed\debug\classes_88ec5d9161fee9f198328f7dc5f9c8ea02eee2e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NIKHIL\.android\build-cache\380a00bf2c51441b78a5d99b3a12d8120a0c4b58\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b515e6e269bfe848f5b43ac09bce54d6617d4fd">
+        <dex dex="C:\Users\NIKHIL\AndroidStudioProjects\SqliteLogin\app\build\intermediates\pre-dexed\debug\classes_bbca552f2797871d34bb8987afe2d5a2f3da9101.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NIKHIL\.android\build-cache\e97c05a7144a3f42931d76271f0c2ed39472222d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8aada8a0e9e9b3ecdda5e80f17c6a51a468e302a">
+        <dex dex="C:\Users\NIKHIL\AndroidStudioProjects\SqliteLogin\app\build\intermediates\pre-dexed\debug\classes_a6a1c3a152fba76bb42ebc2c7e8f17a2eadae72a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NIKHIL\.android\build-cache\3a20b96b8da2d73cf24fc043ab1181c2d5e939a0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4c2b01baa64ba25f8dbdf7f7f828bc5664dab55e">
+        <dex dex="C:\Users\NIKHIL\AndroidStudioProjects\SqliteLogin\app\build\intermediates\pre-dexed\debug\classes_64a7bec846ce1e3827bcea2352076ed306d08e29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NIKHIL\.android\build-cache\68bbb20beb19ddd4023244f999b79c4ebe5fdc47\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9f2282b9fc24f24c69665032dede1bc7201cf006">
+        <dex dex="C:\Users\NIKHIL\AndroidStudioProjects\SqliteLogin\app\build\intermediates\pre-dexed\debug\classes_4bd041beca6d8d54d81da53f3c57b52b34226227.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NIKHIL\.android\build-cache\666551e1192d9b0237c28891e60857c8f0801481\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6d2f508d1a9fa0fbe1653595e484800c08afb42c">
+        <dex dex="C:\Users\NIKHIL\AndroidStudioProjects\SqliteLogin\app\build\intermediates\pre-dexed\debug\classes_00a8d5d3e75ae850e4d2d317d76959b25c5814d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NIKHIL\.android\build-cache\b2e6fbcb2b346e6507f9e7b2920b3524974a963b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="357a8702c49044417d4856861c8f435e7c74ef09">
+        <dex dex="C:\Users\NIKHIL\AndroidStudioProjects\SqliteLogin\app\build\intermediates\pre-dexed\debug\classes_6af6aa11f39f842acfae0528e916cb7c13b0e033.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NIKHIL\.android\build-cache\557de84fda400e7e372cbb6266ae276e999b0770\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d41b5d21cc9dd7d210f0ae82ac509ba7f091d611">
+        <dex dex="C:\Users\NIKHIL\AndroidStudioProjects\SqliteLogin\app\build\intermediates\pre-dexed\debug\classes_a17301d61aebcc9472ab2322b8e980d66a3f5b1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NIKHIL\.android\build-cache\5e496ec614dceac827bc8c5a60979c425775137c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3a42c5696fa39930d39770f7e5552a9c965fbe09">
+        <dex dex="C:\Users\NIKHIL\AndroidStudioProjects\SqliteLogin\app\build\intermediates\pre-dexed\debug\classes_f755d06210453bc42b87e983ab36fdd8c786a595.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NIKHIL\.android\build-cache\23a3469d77fc65fec3c7eb50af0173c5e4b35fc0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="def5530cb13311617fc8f962e2a90225bb6904e2">
+        <dex dex="C:\Users\NIKHIL\AndroidStudioProjects\SqliteLogin\app\build\intermediates\pre-dexed\debug\classes_ebc0b82114f61978f1c39980fe30b8415a53ddc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NIKHIL\.android\build-cache\6c35adda48a3dba5b3f312ff531c9f844191a561\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ccc963cafe59ce185c49f47baff7eedcb8589bdf">
+        <dex dex="C:\Users\NIKHIL\AndroidStudioProjects\SqliteLogin\app\build\intermediates\pre-dexed\debug\classes_c592c4422695470fda9627b3b55120a80b238bd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NIKHIL\.android\build-cache\f08e8e400c3e576efb58283ff0e66108c3eb4ab1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05d2e01f33fb2097b51fce3f938dc37a75fe2d6b">
+        <dex dex="C:\Users\NIKHIL\AndroidStudioProjects\SqliteLogin\app\build\intermediates\pre-dexed\debug\classes_179edc7027aa77bfd3bdc626fcebb2612e522cdb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NIKHIL\.android\build-cache\385e676664d70788501c1528e2f1bd678a6837b0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f06a0705d7b8b9d18b00d056fe0e07bec75514e6">
+        <dex dex="C:\Users\NIKHIL\AndroidStudioProjects\SqliteLogin\app\build\intermediates\pre-dexed\debug\classes_665ec34bde4cacf17e4c2250ffa62c4a1538815d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NIKHIL\.android\build-cache\0476e3972c4850bbfe512dda232400f153e6bad7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
+        <dex dex="C:\Users\NIKHIL\AndroidStudioProjects\SqliteLogin\app\build\intermediates\pre-dexed\debug\classes_0897e3d2cfb844ead536896061a6c7ff752d012c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NIKHIL\.android\build-cache\8ceeb0351d4cc11324566759b12bcfcde4760c2b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3627eacd7f7cafb5e8ae683992e7b2f9b7dcab1a">
+        <dex dex="C:\Users\NIKHIL\AndroidStudioProjects\SqliteLogin\app\build\intermediates\pre-dexed\debug\classes_472ed974b46aec0c67f77952a4472c913d869ac7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NIKHIL\.android\build-cache\c052c444ea9a62fe167503e5d6889dfbdba04c24\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="77e2e4803396fa79009ace04d9be84184aafcc31">
+        <dex dex="C:\Users\NIKHIL\AndroidStudioProjects\SqliteLogin\app\build\intermediates\pre-dexed\debug\classes_7bf2fb8912cdaa2092640c7633fc2df37d8ae36b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NIKHIL\.android\build-cache\8444cf1e99855c771622c5a150b568e024c7e285\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0979debb5b4d955ddc0e80bb192f4f00c2f91750">
+        <dex dex="C:\Users\NIKHIL\AndroidStudioProjects\SqliteLogin\app\build\intermediates\pre-dexed\debug\classes_5c4097402996e540f3520fe0388d8ad02ca6ecb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NIKHIL\.android\build-cache\f0a6def0f8c2e8f8adfb01cc62c405d24ac938ce\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="081ced8ab77e606b6743c27cfe93dc450447b046">
+        <dex dex="C:\Users\NIKHIL\AndroidStudioProjects\SqliteLogin\app\build\intermediates\pre-dexed\debug\classes_f6383c08bdd95f3019e830aaf14deccf9fbd9235.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NIKHIL\.android\build-cache\1fd2762b1d2dfd24d917ff421c5b892498ceed69\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0765979e802b1669c90dc36076559461d5eb6ad1">
+        <dex dex="C:\Users\NIKHIL\AndroidStudioProjects\SqliteLogin\app\build\intermediates\pre-dexed\debug\classes_1c5dd7b33c9cf4d6d551ec6e6f7f9779c0cb306c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NIKHIL\.android\build-cache\471c8d88f09485e0cf6c743a711f320e32cbcb7b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2506c5893e125e2f9cfc522378e893620c21b109">
+        <dex dex="C:\Users\NIKHIL\AndroidStudioProjects\SqliteLogin\app\build\intermediates\pre-dexed\debug\classes_ced9c370ab343ccd025eadf17e79c070dd73768c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NIKHIL\.android\build-cache\d328da6867ea985ffd90fa94c87ff2e15231a5f2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="07c569a77f437c5c71eac8b1b636a50bebb69a93">
+        <dex dex="C:\Users\NIKHIL\AndroidStudioProjects\SqliteLogin\app\build\intermediates\pre-dexed\debug\classes_10a931e23e68057f1fc521630ec58a848811d751.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NIKHIL\.android\build-cache\425527780fd7d19703470eba11a0f7c41364eaa8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee409046028e5657a2a69edaa2eba00d6511a74c">
+        <dex dex="C:\Users\NIKHIL\AndroidStudioProjects\SqliteLogin\app\build\intermediates\pre-dexed\debug\classes_21b411e4c0fba9516a246e1dd12a72819d78f1b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NIKHIL\.android\build-cache\dfd75206c0bb3f7302b378977052e3d70225f4b4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="36e2b438f9b0d68fb2482c8f389e249e32840cff">
+        <dex dex="C:\Users\NIKHIL\AndroidStudioProjects\SqliteLogin\app\build\intermediates\pre-dexed\debug\classes_c292a64025385bf831f5d37782e3d19eee973c3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NIKHIL\.android\build-cache\4873acf415933bbd61b221cbe6a4ac07737bb0f8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bb417e9ac8645285342935679e75d371b58b62b">
+        <dex dex="C:\Users\NIKHIL\AndroidStudioProjects\SqliteLogin\app\build\intermediates\pre-dexed\debug\classes_fe6cb530c717630b20a39059f3db70aa067a4a3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NIKHIL\.android\build-cache\efbc5de7f8fff6d8e9c5da9de0ad320f95bd2c34\output\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\NIKHIL\AndroidStudioProjects\SqliteLogin\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_681872819377d6ba78f76dbacdca550d6b43f072.jar" />
+    </item>
+
+</items>
